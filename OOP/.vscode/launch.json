@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "numbers",
+            "request": "launch",
+            "mainClass": "Recursion.numbers",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "PerfectPairHunting",
+            "request": "launch",
+            "mainClass": "Array.PerfectPairHunting",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimentionalArray",
+            "request": "launch",
+            "mainClass": "Array.MultiDimentionalArray",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "MatrixSearch",
+            "request": "launch",
+            "mainClass": "Array.MatrixSearch",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "Array.ArrayListDemo",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "ArrDemo",
+            "request": "launch",
+            "mainClass": "Array.ArrDemo",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "ObjectCloning",
+            "request": "launch",
+            "mainClass": "ObjectCloning.ObjectCloning",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousClass",
+            "request": "launch",
+            "mainClass": "AnonymousClass.AnonymousClass",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Interface.Interface",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "InnerClassDemo",
+            "request": "launch",
+            "mainClass": "InnerClass.InnerClassDemo",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "WrapperClass.WrapperClass",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Enum",
+            "request": "launch",
+            "mainClass": "EnumerationClass.Enum",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Reflection",
+            "request": "launch",
+            "mainClass": "Inheritance.Reflection",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance1",
+            "request": "launch",
+            "mainClass": "ObjectClass.Inheritance1",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClass",
+            "request": "launch",
+            "mainClass": "ObjectClass.ObjectClass",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "AbstractClass.AbstractClass",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "varargs",
+            "request": "launch",
+            "mainClass": "varargs.varargs",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci.Fibonacci",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Box",
+            "request": "launch",
+            "mainClass": "PassingObject.Box",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "PassingRefference",
+            "request": "launch",
+            "mainClass": "PassingRefference.PassingRefference",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "OOP_665123bb"
+        },
+        {
+            "type": "java",
+            "name": "ReturningObject",
+            "request": "launch",
+            "mainClass": "ReturningObject.ReturningObject",
+            "projectName": "OOP_665123bb"
+        }
+    ]
+}
